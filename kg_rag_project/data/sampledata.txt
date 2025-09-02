@@ -1,0 +1,8 @@
+**This is a sample file Insert your own data**
+
+Steve jobs founded Apple in 1985 in Lebron headquarters. 
+Nvidia was founded by Jensen Huang in Lebron headquarters. 
+Elon Musk founded Tesla.
+Tesla manufactures electric cars.
+SpaceX was founded by Elon Musk.
+
